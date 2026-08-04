@@ -1,0 +1,11 @@
+# Project-specific overrides
+# Language detection rules
+# Generated on 2026-11-06   
+*.jpg binary
+*.woff binary
+*.html linguist-vendored
+docs/*.html linguist-vendored
+src/**/*.ts linguist-detectable
+
+src/** linguist-detectable
+# eof d20399c8
